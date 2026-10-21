@@ -4,10 +4,10 @@
 Educational activity sheet generator for kids. Generates printable/PDF-ready sheets directly in the browser. No frameworks, no build tools, no dependencies — plain HTML, CSS, and JavaScript only.
 
 ## Live Site
-https://thetraingoes.github.io/main-site/
+https://kids-sheets.github.io/
 
 ## GitHub Repo
-https://github.com/TheTrainGoes/main-site
+https://github.com/Kids-Sheets/kids-sheets.github.io
 
 ## Hosting
 GitHub Pages — branch: `main`, root: `/`
@@ -22,7 +22,7 @@ To deploy: just push to main. Pages rebuilds automatically.
 
 ## File Structure
 ```
-main-site/
+kids-sheets.github.io/
 ├── index.html          # Landing page with cards for each generator
 ├── word-search.html    # Word search generator page
 ├── css/
@@ -97,7 +97,7 @@ Animals, Food, Fruits and Vegetables, Weather, School, Ocean Life, Farm, Holiday
 ---
 
 ## To Resume in a New Chat
-1. Clone or open `https://github.com/TheTrainGoes/main-site`
+1. Clone or open `https://github.com/Kids-Sheets/kids-sheets.github.io`
 2. Read this file
 3. Check `git log --oneline` for recent changes
 4. Continue from where we left off — next up is Math Sheets (user to provide parameters)
